@@ -1,0 +1,6 @@
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\bin\Release\Server.exe.config
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\bin\Release\Server.exe
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\bin\Release\Server.pdb
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\obj\Release\Server.exe
+C:\Users\mvcha\Desktop\work not wolf\Server\Server\obj\Release\Server.pdb

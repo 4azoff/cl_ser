@@ -1,0 +1,6 @@
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\bin\Release\Client.exe.config
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\bin\Release\Client.exe
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\bin\Release\Client.pdb
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\obj\Release\Client.exe
+C:\Users\mvcha\Desktop\work not wolf\Client\Client\obj\Release\Client.pdb
